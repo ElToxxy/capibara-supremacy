@@ -1,3 +1,23 @@
-.capibaras y humanos p¨{
+body{
+    font-family: normal;
+}
+
+.capibarasyhumanos p{
+    font-size: 22px;
+    float: right;
+    width: 50%;
+}
+
+h3{
+    font-size: 26px
+}
+
+.elgobierno p{
+    font-size: 20px;
+}
+
+a:hover{
     color: blue;
 }
+
+
