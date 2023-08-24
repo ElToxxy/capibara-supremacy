@@ -1,5 +1,10 @@
 body{
-    font-family: normal;
+    font-family: Arial;
+    background-color: beige;
+}
+
+img{
+    max-width: 100%;
 }
 
 .capibarasyhumanos p{
@@ -20,4 +25,13 @@ a:hover{
     color: blue;
 }
 
+.imagengrupo{
+    box-shadow: 0px 0px 20px black;
+    width: 750px;
+    height: 500px;
+}
+
+h5{
+    font-size: 20px;
+}
 
